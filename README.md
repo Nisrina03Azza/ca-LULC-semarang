@@ -50,22 +50,12 @@ ca-landuse-semarang/
 │
 ├── README.md
 │
-├── data/
-│   ├── lulc.zip                # zipped file of base year, second year, and actual land cover (for input and validation)
-│   │
-│   └── variables.zip          # Proximity to building and road, DEM and slope raster as factor variables
-│
-├── output/
-│   ├── transition_potential.zip
-│   │
-│   └── simulation_validation.zip
-│
-├── maps/
-│   ├── LULC_2017_map.png
-│   ├── LULC_2019_map.png
-│   ├── LULC_2021_actual_map.png
-│   ├── LULC_2021_predicted_map.png
-│   └── transition_LULC_maps.png
+└─── maps/
+      ├── LULC_2017_map.png
+      ├── LULC_2019_map.png
+      ├── LULC_2021_actual_map.png
+      ├── LULC_2021_predicted_map.png
+      └── transition_LULC_maps.png
 ```
 
 ---
